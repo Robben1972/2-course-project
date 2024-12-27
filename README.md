@@ -85,7 +85,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### **Project Structure**
 ```
-news_aggregator/
+NewsAPIFastAPI/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py         # FastAPI entry point
