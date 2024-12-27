@@ -45,7 +45,6 @@ Follow these instructions to set up and run the project on your local machine.
    - Register for an API key from a public news API like [NewsAPI](https://newsapi.org/).
    - Once you have the key, create a `config.py` file in the `app` directory:
      ```python
-     # app/config.py
      NEWS_API_KEY = "your_api_key_here"
      ```
 
