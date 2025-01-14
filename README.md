@@ -25,7 +25,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. **Clone the Repository**
    ```bash
-   git clone git@github.com:Robben1972/NewsAPIFastAPI.git
+   git clone [git@github.com:Robben1972/NewsAPIFastAPI.git](https://github.com/Robben1972/NewsAPIFastAPI.git)
    cd NewsAPIFastAPI
    ```
 
